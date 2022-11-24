@@ -1,0 +1,9 @@
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\csharp-oop-ecommerce-basic.csproj.AssemblyReference.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\csharp_oop_ecommerce_basic.Form1.resources
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\cshapr_oop_ecommerce_basic.Properties.Resources.resources
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\csharp-oop-ecommerce-basic.csproj.GenerateResource.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\csharp-oop-ecommerce-basic.csproj.CoreCompileInputs.cache
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\cshapr-oop-ecommerce-basic.exe
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\obj\Debug\cshapr-oop-ecommerce-basic.pdb
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\bin\Debug\cshapr-oop-ecommerce-basic.exe
+C:\DIEGO\SVILUPPO\olprofesur\csharp-basics-oop\cshapr-oop-ecommerce-basic\cshapr-oop-ecommerce-basic\bin\Debug\cshapr-oop-ecommerce-basic.pdb
