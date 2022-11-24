@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace cshapr_oop_ecommerce_basic
+namespace cshapr_oop_ecommerce_basic.view
 {
     internal static class Program
     {

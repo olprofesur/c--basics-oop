@@ -92,18 +92,13 @@ namespace csharp_oop_ecommerce_basic.model
 
         //COSTRUTTORI
 
-        private void InitProd(string id, string nome, string prod, string descr, float prezzo)
+        public Prodotto(string id, string nome, string prod, string descr, float prezzo)
         {
             Id = id;
             Nome = nome;
             Produttore = prod;
             Descrizione = descr;
             Prezzo = prezzo;
-        }
-
-        public Prodotto(string id, string nome, string prod, string descr, float prezzo)
-        {
-            InitProd(id, nome, prod, descr, prezzo);
         }
 
         public Prodotto(string id, string nome, string prod, string descr) : this(id, nome, prod, descr, 10)
